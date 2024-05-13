@@ -53,4 +53,4 @@ Both of these videos may break your pre-existing beliefs.
 
 Now, I don’t want you to just throw the education system away, instead learn from what they did wrong, make it right, implement on yourself, and spread it in the world.
 
-That’s how humans have come so far in evolution rather than any other animal on the planet. We are good at fixing things, making them better, and passing them down to future generations. If you want to learn more and more things. I have a existing philosophy on this, you may check that out as well “The Hundred Things Principal”.
+That’s how humans have come so far in evolution rather than any other animal on the planet. We are good at fixing things, making them better, and passing them down to future generations. If you want to learn more and more things. I have a existing philosophy on this, you may check that out as well “[The Hundred Things Principal](https://himanshujangid.com/blogs/the-hundred-things-principle.html)”.
