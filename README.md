@@ -33,7 +33,7 @@ Keep these answers with you, we may need them in the future. I don't need to kno
 
 Thinking is a gift that humans have. Our current education system is not designed to make you think, it is designed to make you remember. But, the real learning is not about remembering, it is about understanding. Do you remember solving a math problem in your school days? You may have remembered the formula, but do you remember how you derived it? There is no problem in remembering the formula, but the problem arises when you never question how it was derived. Even if you don't derive it, just question it. And typically derivations are not that hard.
 
-I believe everyone is unique in their own way, not everyone can become engineer, not everyone can become a artist, not everyone can become a doctor. But everyone can become a thinker. But whatever you become, you must be able to think and create rather than just doing what you learned.
+I believe everyone is unique in their own way, not everyone can become an engineer, not everyone can become an artist, not everyone can become a doctor. But everyone can become a thinker. But whatever you become, you must be able to think and create rather than just doing what you learned.
 
 ### Chapter 2 - Find Answers
 
