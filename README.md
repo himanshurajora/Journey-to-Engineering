@@ -1,5 +1,7 @@
 # Journey of Engineering
 
+## ⚠️ Need Contributors
+
 ## Introduction
 
 It is quite impressive that a lot of engineers have been appearing for the past few years, making millions of products every year, serving the needs of billions of people. But, are all of them good engineers? Do they learn things in the right way? Do they explore the things they are working with? Do they understand what they are doing exactly? The answer to it, for most engineers today, is no.
