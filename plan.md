@@ -43,3 +43,6 @@ We miss a lot of things in the first attempt. The first iteration is almost alwa
 11. Compare
 Compare your solution with the existing ones. If it's not better, go back to step 1. Yes. Forget everything you know and start from scratch.
 Or if your answers is almost near to be the best. Go to step 7.
+
+12. Method of Learning
+Traditional education system have come to an age where it doesn't make sense anymore. Rather than learning from leaves to root, start from root and then go for leaves. This chapter will explain how to learn something faster and become master of it. We must know that connecting dots is hard but only if we ignore the links from the beginning.

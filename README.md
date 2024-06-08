@@ -8,7 +8,7 @@ It is quite impressive that a lot of engineers have been appearing for the past 
 
 Note that I certainly do not consider myself a perfect person or engineer. But this document isn’t about me or from me. It’s from the people that I learned from, the people who are great in this industry, the people who put the foundations of engineering from 1000 years B.C. to 21st century. I’ll be mentioning their names in the document itself wherever necessary.
 
-In the first few chapters, you'll not learn about engineering at all. You'll be introduced to philosophies that will broaden you vision.Engineering is not only about solving problems, it's about how to solve them. It is a process of taking a problem, analyzing it, asking questions, gather information, find existing solutions and then think and creating a new one.
+In the first few chapters, you'll not learn about engineering at all. You'll be introduced to philosophies that will broaden your vision. Engineering is not only about solving problems, it's about how to solve them. It is a process of taking a problem, analyzing it, asking questions, gather information, find existing solutions and then think and creating a new one.
 
 This document will have multiple chapters that will only contain the abstract of what should be done in that step. Consider each chapter as a step of learning. In each chapter learning resources will be mentioned, and the references and guidance will be there, but one thing won’t, and that is the knowledge itself. It must explored, learned, and noted by the individual himself. That is the core of this document that the knowledge must only be gathered by the one who wants it because it is not the things that you learn, it is the process.
 
@@ -35,7 +35,9 @@ Keep these answers with you, we may need them in the future. I don't need to kno
 
 Thinking is a gift that humans have. Our current education system is not designed to make you think, it is designed to make you remember. But, the real learning is not about remembering, it is about understanding. Do you remember solving a math problem in your school days? You may have remembered the formula, but do you remember how you derived it? There is no problem in remembering the formula, but the problem arises when you never question how it was derived. Even if you don't derive it, just question it. And typically derivations are not that hard.
 
-I believe everyone is unique in their own way, not everyone can become an engineer, not everyone can become an artist, not everyone can become a doctor. But everyone can become a thinker. But whatever you become, you must be able to think and create rather than just doing what you learned.
+Let's break something. I believe everyone is unique in their own way, not everyone can become an engineer, not everyone can become an artist, not everyone can become a doctor but everyone can become a thinker. And whatever you become finally, you must be able to think critically in the area of your interest. We've seen an enormous amount of people in human history who caused reforms and re-evaluations but that number isn't quite a great percentage of people that exist on earth. Why is it that most of the people want to live an average life and why don't they just think and contribute. Although everyone contributes to human development no matter what they do, but here, contribution is proportional intellect and not merely just keep doing the same thing. If you've accepted that you are just going to live like all of the others than it is better just to stop reading this doc because it is not going to be sweet, soft and buttery.
+
+If a question arises from here, wether this doc is going to be slightly philosophical, you are absolutely right.
 
 ### Chapter 2 - Find Answers
 
